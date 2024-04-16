@@ -1,0 +1,49 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="bhclI=;Db8ydM4XaNPU;" x="182" y="-27"><statement name="HANDLER"><block type="basic_show_icon" id="OOfS=8H3D]v]{l_v^8Jt"><field name="i">IconNames.Heart</field><next><block type="basic_show_icon" id="^m!1%^}rXN#Yxh6lj*+i"><field name="i">IconNames.SmallHeart</field><next><block type="device_show_leds" id="he7]dwjkC$p+]LsPNP$z"><field name="LEDS">`
+        . . # . . 
+        # # # # # 
+        # . # . # 
+        # . # . # 
+        # . # . #
+        `</field><next><block type="device_show_leds" id="g[1P4k]-1MjMYz9B(@Fo"><field name="LEDS">`
+        . . # . . 
+        # # # # # 
+        # . # . # 
+        # . # . # 
+        # . # . #
+        `</field><next><block type="device_show_leds" id="e(5aclb^8mSrD#Qx_Ev-"><field name="LEDS">`
+        # # # # # 
+        # . # . # 
+        # . # . # 
+        # . # . # 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="8CG)jI%2dg^gDfor;yZ0"><field name="LEDS">`
+        # # # # # 
+        # . # . # 
+        # . # . # 
+        # . # . # 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="{OF$@bF7UpT=u23%]#0m"><field name="LEDS">`
+        # . # . # 
+        # . # . # 
+        # . # . # 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id=")M{pP~kMx#7]NV`_U4OK"><field name="LEDS">`
+        # . # . # 
+        # . # . # 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="VZJeYxkFmIa!^m*J}[,/"><field name="LEDS">`
+        # . # . # 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="u5CvTcaSH@HqFEJg+6%A"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_print_message" id="/lG^Yb87]B0wVdot8t@o"><value name="text"><shadow type="text" id="hexii4.W`~)1j8Otbo.w"><field name="TEXT">Chichuwawa's 1st rocket</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="EZIMOIaFrbsW_E8cLaor" x="0" y="0"></block></xml>
